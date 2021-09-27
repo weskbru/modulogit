@@ -1,4 +1,1 @@
-esse será meu primeiro arquivo
-alteraçao do promeiro commit 
-
-uma nova linha 
+meu primeiro sistema no git alterado 
